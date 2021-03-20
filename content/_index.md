@@ -1,6 +1,6 @@
 +++
-title = "Wellcome to our peoject documentation"
-description = ""
+title = "Wellcome to our project documentation"
+description = "The technical details of our project"
 +++
 
 {{< lead >}}
