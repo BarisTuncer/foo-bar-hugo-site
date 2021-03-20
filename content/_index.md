@@ -6,7 +6,9 @@ description = ""
 {{< lead >}}
 We are using Ace documentation theme for our projects technical reports.
 
-It is easy to use, minimalistic and fast
+It is easy to use, minimalistic and fast.
+
+To see its usage: https://docs.vantage-design.com/ace/
 {{< /lead >}}
 
 
